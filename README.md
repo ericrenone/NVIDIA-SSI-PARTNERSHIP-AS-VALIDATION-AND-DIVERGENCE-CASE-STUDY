@@ -1,5 +1,8 @@
 # THE PARADIGM SILO: Why the Field's Most Important Breakthroughs Will Not Come From Where the Money Is Going
 
+---
+<img width="1782" height="608" alt="sdsd" src="https://github.com/user-attachments/assets/e5f6d5c3-0b00-491e-8e30-b610a777f62f" />
+---
 ## The Pattern
 
 On July 27, 2026, Nvidia announced a $5 billion investment in Ilya Sutskever's Safe Superintelligence Inc., along with order-of-magnitude compute access via the Vera Rubin platform. The announcement was celebrated as a historic partnership. It was rational, defensible, and entirely predictable.
